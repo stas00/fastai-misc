@@ -1,0 +1,1 @@
+nvcc -o fragment_gpu_mem fragment_gpu_mem.cu

@@ -1,0 +1,2 @@
+nvcc -o bad_alloc_recover bad_alloc_recover.cu
+

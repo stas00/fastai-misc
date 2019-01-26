@@ -1,0 +1,1 @@
+nvcc -o check_cuda_device check_cuda_device.cu
